@@ -7,7 +7,7 @@ Created on Thu Nov 14 16:27:58 2024
 
 import pandas as pd
 import numpy as np
-import pickle5 as pickle
+import pickle as pickle
 import streamlit as st
 
 file1 = open('Titanic.pkl', 'rb')
